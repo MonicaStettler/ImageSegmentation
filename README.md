@@ -1,6 +1,7 @@
 # ImageSegmentation
 
 Automated Image Segmentation of Clothing Ensembles from Pinterest
+
 Final (solo) project for my Image Processing course (CSC481)
 
 ABSTRACT
