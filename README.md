@@ -5,6 +5,7 @@ Automated Image Segmentation of Clothing Ensembles from Pinterest
 Final (solo) project for my Image Processing course (CSC481)
 
 ABSTRACT
+
 Fashion bloggers provide beautiful images of complete clothing ensembles, fully put together
 with accessories such as a purse, shoes, belt, earrings, scarves etc. What is lacking is the ability
 to buy the items in the image. In an ideal world, one would be able to click on any of the items
